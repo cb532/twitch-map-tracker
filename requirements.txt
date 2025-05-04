@@ -1,0 +1,11 @@
+streamlit
+pymysql
+pandas
+matplotlib
+opencv-python
+pytesseract
+streamlit-autorefresh
+requests
+fuzzywuzzy
+python-Levenshtein
+mysql-connector-python
