@@ -39,6 +39,7 @@ This project uses OCR and keyword-based scoring to automatically detect and labe
 - `ffmpeg` and `streamlink` installed system-wide
 - Twitch API Client ID + OAuth Token
 - MySQL database (schema below)
+- `streamlit-autorefresh` for automatic dashboard updates
 - Google Fonts (optional, for some matplotlib displays)
 
 ### 2. Clone the Repo
