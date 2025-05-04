@@ -33,8 +33,6 @@ This project uses OCR and keyword-based scoring to automatically detect and labe
 
 ## Getting Started
 
-## Getting Started
-
 ### 1. Prerequisites
 - Python 3.8+
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
